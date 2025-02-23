@@ -3,9 +3,11 @@
     "symbol": "PISOL",
     "description": "PI ON SOL",
     "image": "https://raw.githubusercontent.com/xf678/PIONSOL/main/Picoin.png",
+    "external_url": "https://pinetworkonsol.com",
     "attributes": [
       {
-        "trait_type": "Item",
+        { "trait_type": "Total Supply", "value": "1,000,000,000" },
+        { "trait_type": "Circulating Supply", "value": "200,000,000" }
         "value": "PISOL"
       }
     ]
