@@ -2,7 +2,7 @@
     "name": "PISOL",
     "symbol": "PISOL",
     "description": "PI ON SOL",
-    "image": "https://github.com/xf678/PIONSOL/blob/main/3DPI.png",
+    "image": "https://raw.githubusercontent.com/xf678/PIONSOL/main/3DPI.png",
     "attributes": [
       {
         "trait_type": "Item",
